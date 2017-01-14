@@ -1,0 +1,5 @@
+﻿  weatherlog.cpp
+c:\users\noah clark\documents\visual studio 2015\projects\martian weather\martian weather\weatherlog.cpp(32): error C2039: 'addData': is not a member of 'datalogger'
+  c:\users\noah clark\documents\visual studio 2015\projects\martian weather\martian weather\datalogger.h(4): note: see declaration of 'datalogger'
+c:\users\noah clark\documents\visual studio 2015\projects\martian weather\martian weather\weatherlog.cpp(37): error C2039: 'printReport': is not a member of 'datalogger'
+  c:\users\noah clark\documents\visual studio 2015\projects\martian weather\martian weather\datalogger.h(4): note: see declaration of 'datalogger'
